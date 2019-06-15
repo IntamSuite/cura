@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial xmlns="http://www.intamsys.com/material">
+  <metadata>
+    <name>
+      <brand>Intamsys</brand>
+      <material>ABS</material>
+      <color>White</color>
+      <label>ABS</label>
+    </name>
+    <color_code>#0070a3</color_code>
+    <description />
+    <compatible>True</compatible>
+    <adhesion_info />
+    <GUID>60636bb4-518f-42e7-8237-fe77b194ebe0</GUID>
+    <version>1</version>
+  </metadata>
+  <properties>
+    <density>1.10</density>
+    <diameter>1.75</diameter>
+  </properties>
+  <settings>
+    <setting key="print temperature">240.0</setting>
+    <setting key="heated bed temperature">95.0</setting>
+    <setting key="standby temperature">200</setting>
+    <setting key="print cooling">45.0</setting>
+	<machine>
+            <machine_identifier manufacturer="Intamsys" product="funmatht"/>
+
+ 
+            
+    </machine>
+  </settings>
+</fdmmaterial>

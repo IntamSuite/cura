@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial xmlns="http://www.intamsys.com/material">
+  <metadata>
+    <name>
+      <brand>Intamsys</brand>
+      <material>Carbon Fiber</material>
+      <color>Black</color>
+      <label>CF</label>
+    </name>
+    <color_code>#0070a3</color_code>
+    <description />
+    <compatible>True</compatible>
+    <adhesion_info />
+    <GUID>60636bb4-518f-42e7-8237-fe77b194ebe0</GUID>
+    <version>1</version>
+  </metadata>
+  <properties>
+    <density>1.10</density>
+    <diameter>1.75</diameter>
+  </properties>
+  <settings>
+    <setting key="print temperature">245.0</setting>
+    <setting key="heated bed temperature">80.0</setting>
+    <setting key="standby temperature">200.0</setting>
+    <setting key="print cooling">0.0</setting>
+	<machine>
+            <machine_identifier manufacturer="Intamsys" product="funmatht"/>
+
+          
+           
+    </machine>
+  </settings>
+</fdmmaterial>

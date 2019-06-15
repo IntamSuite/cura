@@ -1,0 +1,22 @@
+{
+    "IntamSuite": {
+        "Windows": {
+            "major": 3,
+            "minor": 1,
+            "revision": 3,
+            "url": "https://www.intamsys.com/slicing-software/"
+        },
+        "Linux": {
+            "major": 3,
+            "minor": 1,
+            "revision": 3,
+            "url": "https://www.intamsys.com/slicing-software/"
+        },
+        "Darwin": {
+            "major": 3,
+            "minor": 1,
+            "revision": 3,
+            "url": "https://www.intamsys.com/slicing-software/"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+[3.1.3]
+*Machine name added.
+We have added machine name to the platform. It makes it easy to figure the machines and the position
+
+*Contact us optimization
+Optimize the contact us function. set the limitation for the email. customers must fill at least an email address or a phone number
+
+*Bug fixes
+- After you finish slicing your first object, you delete the previous one and drag the second one to the software, and then slice it again. The time is not showing up. This is fixed.
+
+[3.1.2]
+* Rotate angle
+show the rotated angle when use rotate function
+
+*Version Upgrade Check
+add a version check for the software. so every time we update the program, user will get a notice.
+
+*Bug fixes
+- Fix the crash problems for some users
+- Fix the tips showing problem
+
+[3.1.1]
+*Contact Us function
+add contact us function to let users contact us easily
+
+*Bug fixes
+- Fix the display issues for some users
+- Some users cannot open the machine setting dialog. This is fixed
+
+[3.1.0]
+*Machine materials
+add new materials: PEEK and PEI in the materials selection. The default print settings are pre-set
+
+* New Engine
+New engine used which is much faster than I-Suite 1.0
+
+* New interface design
+Fresh interface design provide an excellent user experience
+
+
